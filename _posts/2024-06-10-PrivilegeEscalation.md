@@ -1,6 +1,6 @@
 ---
 title: Privilege Escalation
-time: 2024-06-06 12:00:00
+time: 2024-06-10 12:00:00
 categories: [Infosec, Research]
 tags: [privEscalation, infoSec]
 image: /assets/posts/PrivEscalation/priv.jpg
